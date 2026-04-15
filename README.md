@@ -4,6 +4,7 @@
 
 
 create  file/script setup_project.sh
+
 2. **Make the script executable:**
 
 
