@@ -43,3 +43,5 @@ def run_attendance_check():
 
 if __name__ == "__main__":
     run_attendance_check()
+    hhelo
+    
