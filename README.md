@@ -53,3 +53,9 @@ Ctrl + C
 4. The script exits safely
 
 > This ensures that even if you cancel mid-execution, you don't lose your work — the archive preserves the state at the time of interruption.
+
+
+## link to the video explaining how i approached this task
+
+[](https://www.youtube.com/watch?v=TJk0Q71wAYM)
+
