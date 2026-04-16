@@ -15,9 +15,11 @@
 
 to do this , there are  there ways
 
-1 >source setup_project.sh
-2 >bash setup_project.sh
-3 >./setup_project.sh
+>source setup_project.sh
+
+>bash setup_project.sh
+
+>./setup_project.sh
 
 4. **Follow the prompts:**
 
