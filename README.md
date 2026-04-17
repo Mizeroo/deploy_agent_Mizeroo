@@ -53,7 +53,7 @@ While the script is running, press:
 
 4. The script exits safely
 
-> This ensures that even if you cancel mid-execution, you don't lose your work — the archive preserves the state at the time of interruption.
+> This ensures that even if you cancel mid-execution, you don't lose your work,the archive preserves the state at the time of interruption.
 
 
 ## link to the video explaining how I approached this task
